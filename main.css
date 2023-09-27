@@ -1,0 +1,14 @@
+#div1 {
+    text-align: center;
+}
+
+#tab1,
+td {
+    border: 3px solid #111;    
+}
+thead {
+    background-color: darkorchid;
+}
+tbody {
+    background-color: slategrey;
+}
